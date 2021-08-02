@@ -1,0 +1,14 @@
+{
+  "name": "odr-test-tools",
+  "version": "1.0.0",
+  "description": "Run vk mini apps like odr",
+  "main": "index.js",
+  "author": "Ivan Nedzvetskiy",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "configstore": "5",
+    "prompts": "^2.4.1",
+    "puppeteer": "^10.1.0"
+  }
+}
